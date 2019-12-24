@@ -1,0 +1,2 @@
+C:\dannysol\ConsoleApp1\obj\Debug\mevhan.csprojAssemblyReference.cache
+C:\dannysol\ConsoleApp1\obj\Debug\mevhan.csproj.CoreCompileInputs.cache
